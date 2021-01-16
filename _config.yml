@@ -7,13 +7,13 @@ lang: en-US # default lang
 timezone: Europe/Brussels # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/clingier/learning_rate # site repo [optional]
-mode: dark # default theme "dark" | "light"
+mode: light # default theme "dark" | "light"
 
 # Profile settings
 author:
   name: Corentin Lingier # author name
   bio: >- # tell to the world
-          I'm a computer science at UCLouvain. Passionated by AI &#x1F916;, Network Science &#x1F4BB; and Music &#x1F3B7;.
+          I'm a computer science student at UCLouvain. Passionated by AI &#x1F916;, Network Science &#x1F4BB; and Music &#x1F3B7;.
   username: clingier # general username
   github: clingier # github username
   twitter: lingierC # twitter username
